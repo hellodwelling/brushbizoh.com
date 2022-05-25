@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://brushbizoh.com/sitemap.xml
